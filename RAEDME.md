@@ -1,0 +1,1 @@
+[![Haskell CI](https://github.com/l-freeze/cabal/actions/workflows/haskell.yml/badge.svg?branch=master)](https://github.com/l-freeze/cabal/actions/workflows/haskell.yml)
